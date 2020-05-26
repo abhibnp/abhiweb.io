@@ -4,8 +4,8 @@
 }
 .UpperBorder{
 	border-style:solid;
-	width:1178px;
-	height:108px;
+	min-width:1178px;
+	min-height:108px;
 	margin-left:161px;
 	background-color:#012340;
 	border-top-color:yellow;
